@@ -25,7 +25,7 @@ Plataforma completa con sistema de cálculo de paneles y gestión de inventario.
 ### 🌊 Sea Essence: UI/UX Design
 Diseño de interfaz de alta fidelidad para una tienda de perfumes de lujo.
 - **Enfoque:** Experiencia de usuario (UX) y estética minimalista.
-[Ver Mockup en Figma](URL_DE_TU_FIGMA)
+[Ver Mockup en Figma](https://www.figma.com/proto/DpZruXsev9xk96hngUr2Tf/Solario---23AM---2025?node-id=961-10&p=f&t=LWhVXCaf73FCznTG-0&scaling=scale-down-width&content-scaling=fixed&page-id=956%3A12)
 
 ### 🏥 Sistema de Farmacia
 Aplicación web para control de inventario con **borrado lógico**.
