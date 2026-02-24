@@ -33,11 +33,11 @@ Diseño de interfaz de alta fidelidad para una tienda de perfumes de lujo.
 [Ver Mockup en Figma](https://www.figma.com/proto/DpZruXsev9xk96hngUr2Tf/Solario---23AM---2025?node-id=961-10&p=f&t=LWhVXCaf73FCznTG-0&scaling=scale-down-width&content-scaling=fixed&page-id=956%3A12)
 
 ### Guía Turística Responsiva
-Landing page informativa sobre destinos turísticos con adaptabilidad total.
+Realicé una práctica que consistió en crear una landing page informativa sobre destinos turísticos con adaptabilidad total, esto con el fin de explorar el diseño responsivo y funcionalidades de JavaScript.
 [Ver sitio](https://fatimareyesesp.github.io/turismo-responsivo/) | [Ver Código](https://github.com/fatimareyesesp/turismo-responsivo)
 
 - **Diseño Mobile-First:** Proyecto individual donde prioricé la navegación en dispositivos móviles antes de escalar a pantallas de escritorio.
-- **Layouts con CSS:** Uso avanzado de Flexbox y CSS Grid para lograr una cuadrícula de imágenes y contenido totalmente fluida.
+- **Layouts con CSS:** Uso de Flexbox y CSS Grid para lograr una cuadrícula de imágenes y contenido totalmente fluida.
 - **Optimización:** Enfoque en la velocidad de carga y accesibilidad visual.
 
 ### Sistema de Farmacia
