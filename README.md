@@ -5,7 +5,7 @@ Transformo ideas en soluciones digitales funcionales, desde el prototipado visua
 
 ---
 
-## 🛠️ Mi Stack Tecnológico
+## 🛠️ Mi stack tecnológico
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -14,7 +14,7 @@ Transformo ideas en soluciones digitales funcionales, desde el prototipado visua
 
 ---
 
-## Proyectos Destacados
+## Proyectos destacados
 
 ### ☀️ Solario: E-commerce de Energía Solar
 Plataforma completa con sistema de cálculo de paneles y gestión de inventario.
