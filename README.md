@@ -34,7 +34,7 @@ Diseño de interfaz de alta fidelidad para una tienda de perfumes de lujo.
 
 ### 🌴 Guía Turística Responsiva
 Landing page informativa sobre destinos turísticos con adaptabilidad total.
-[Ver Sitio en Vivo 🚀](https://fatimareyesesp.github.io/turismo-responsivo/) | [Ver Código](https://github.com/fatimareyesesp/turismo-responsivo)
+[Ver sitio](https://fatimareyesesp.github.io/turismo-responsivo/) | [Ver Código](https://github.com/fatimareyesesp/turismo-responsivo)
 
 - **Diseño Mobile-First:** Proyecto individual donde prioricé la navegación en dispositivos móviles antes de escalar a pantallas de escritorio.
 - **Layouts con CSS:** Uso avanzado de Flexbox y CSS Grid para lograr una cuadrícula de imágenes y contenido totalmente fluida.
@@ -42,7 +42,7 @@ Landing page informativa sobre destinos turísticos con adaptabilidad total.
 
 ### 🏥 Sistema de Farmacia
 Aplicación web para control de inventario con gestión de datos sensible. 
-[Ver Código del Proyecto]([https://github.com/fatimareyesesp/sistema-farmacia-upqroo](https://github.com/fatimareyesesp/sistema-farmaceutico))
+[Ver código del proyecto]([https://github.com/fatimareyesesp/sistema-farmacia-upqroo](https://github.com/fatimareyesesp/sistema-farmaceutico))
 - **Mi colaboración:** Autoría del 100% del diseño visual y estilos (CSS) para una interfaz administrativa limpia.
 - **Lógica de Backend:** Implementación de **borrado lógico** en PHP para asegurar la integridad referencial y persistencia de datos en el historial.
 
