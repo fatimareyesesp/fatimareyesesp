@@ -18,7 +18,7 @@ Transformo ideas en soluciones digitales funcionales, desde el prototipado visua
 
 ### ☀️ Solario: E-commerce de Energía Solar
 Plataforma completa con sistema de cálculo de paneles y gestión de inventario.
-[Ver Proyecto en GitHub](https://github.com/fatimareyesesp/Solario)
+[Ver proyecto en GitHub](https://github.com/fatimareyesesp/Solario)
 
 **Enfoque en Frontend y Experiencia de Usuario:**
 * **Interfaz dinámica e interactiva:** En colaboración, diseñé una experiencia de usuario fluida donde el Carrito de Compras se actualiza en tiempo real.
