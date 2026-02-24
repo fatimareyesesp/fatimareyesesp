@@ -1,5 +1,5 @@
 # ¡Hola! Soy Fátima Reyes ✨
-Estudiante de Ingeniería en TI en la UPQROO. Me especializo en crear soluciones que unen el diseño estético con una arquitectura de datos sólida.
+Estudiante de Ingeniería en TIID en la UPQROO. Me especializo en crear soluciones que unen el diseño estético con una arquitectura de datos sólida.
 
 ### 🛠️ Tecnologías que domino
 - **Diseño:** Figma (Prototipado y UI)
