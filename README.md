@@ -46,7 +46,3 @@ Aplicación web para control de inventario con gestión de datos sensible. 
 - **Mi colaboración:** Autoría del 100% del diseño visual y estilos (CSS) para una interfaz administrativa limpia.
 - **Lógica de Backend:** Implementación de **borrado lógico** en PHP para asegurar la integridad referencial y persistencia de datos en el historial.
 
----
-
-### 📊 Estadísticas de GitHub
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=fatimareyesesp&layout=compact&theme=radical&hide_border=true)
