@@ -14,7 +14,7 @@ Transformo ideas en soluciones digitales funcionales, desde el prototipado visua
 
 ---
 
-## 🚀 Proyectos Destacados
+## Proyectos Destacados
 
 ### ☀️ Solario: E-commerce de Energía Solar
 Plataforma completa con sistema de cálculo de paneles y gestión de inventario.
