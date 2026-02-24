@@ -1,11 +1,11 @@
-# ¡Hola! Soy Fátima Reyes ✨
+# ¡Hola! Soy Fátima Reyes
 **Ingeniera en TI e Innovación Digital en formación | Diseñadora UX/UI**
 
 Transformo ideas en soluciones digitales funcionales, desde el prototipado visual en **Figma** hasta la arquitectura de datos en **SQL** y el desarrollo backend en **PHP**.
 
 ---
 
-## 🛠️ Mi stack tecnológico
+## Mi stack tecnológico
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -16,7 +16,7 @@ Transformo ideas en soluciones digitales funcionales, desde el prototipado visua
 
 ## Proyectos destacados
 
-### ☀️ Solario: E-commerce de Energía Solar
+### Solario: E-commerce de Energía Solar
 Plataforma completa con sistema de cálculo de paneles y gestión de inventario.
 [Ver proyecto en GitHub](https://github.com/fatimareyesesp/Solario)
 
@@ -26,13 +26,13 @@ Plataforma completa con sistema de cálculo de paneles y gestión de inventario.
 * **Flujos de usuario seguros:** Desarrollé la interfaz de mantenimiento optimizada, asegurando fluidez en la experiencia de usuario y persistencia de datos con PHP/PDO.
 * **Diseño Responsivo:** Estructuración de componentes web que mantienen la estética y funcionalidad en distintos dispositivos.
 
-### 🌊 Sea Essence: Diseño UX/UI
+### Sea Essence: Diseño UX/UI
 Diseño de interfaz de alta fidelidad para una tienda de perfumes de lujo.
 - **Enfoque:** Experiencia de usuario y estética minimalista basada en jerarquía visual.
 - **Herramientas:** Figma.
 [Ver Mockup en Figma](https://www.figma.com/proto/DpZruXsev9xk96hngUr2Tf/Solario---23AM---2025?node-id=961-10&p=f&t=LWhVXCaf73FCznTG-0&scaling=scale-down-width&content-scaling=fixed&page-id=956%3A12)
 
-### 🌴 Guía Turística Responsiva
+### Guía Turística Responsiva
 Landing page informativa sobre destinos turísticos con adaptabilidad total.
 [Ver sitio](https://fatimareyesesp.github.io/turismo-responsivo/) | [Ver Código](https://github.com/fatimareyesesp/turismo-responsivo)
 
@@ -40,7 +40,7 @@ Landing page informativa sobre destinos turísticos con adaptabilidad total.
 - **Layouts con CSS:** Uso avanzado de Flexbox y CSS Grid para lograr una cuadrícula de imágenes y contenido totalmente fluida.
 - **Optimización:** Enfoque en la velocidad de carga y accesibilidad visual.
 
-### 🏥 Sistema de Farmacia
+### Sistema de Farmacia
 Aplicación web para control de inventario con gestión de datos sensible. 
 [Ver código del proyecto]([https://github.com/fatimareyesesp/sistema-farmacia-upqroo](https://github.com/fatimareyesesp/sistema-farmaceutico))
 - **Mi colaboración:** Autoría del 100% del diseño visual y estilos (CSS) para una interfaz administrativa limpia.
