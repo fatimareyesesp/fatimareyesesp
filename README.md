@@ -1,18 +1,38 @@
 # ¡Hola! Soy Fátima Reyes ✨
-Estudiante de Ingeniería en TIID en la UPQROO. Me especializo en crear soluciones que unen el diseño estético con una arquitectura de datos sólida.
+**Ingeniera en TI e Innovación Digital en formación | Diseñadora UX/UI**
 
-### 🛠️ Tecnologías que domino
-- **Diseño:** Figma (Prototipado y UI)
-- **Frontend:** HTML5, CSS3, JavaScript
-- **Backend & DB:** PHP (PDO), MySQL, SQL Server
-- **Otros:** Dart (Flutter), C#, Java, C++
+Transformo ideas en soluciones digitales funcionales, desde el prototipado visual en **Figma** hasta la arquitectura de datos en **SQL** y el desarrollo backend en **PHP**.
 
+---
+
+## 🛠️ Mi Stack Tecnológico
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-### 🚀 Proyectos Destacados
-1. **Solario:** E-commerce de energía solar con sistema de cálculo de paneles y gestión de usuarios.
-2. **Sea Essence:** Diseño de interfaz de alta fidelidad para perfumería.
-3. **Sistema de Farmacia:** Gestión de inventario con borrado lógico.
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
+---
+
+## 🚀 Proyectos Destacados
+
+### ☀️ Solario: E-commerce de Energía Solar
+Plataforma completa con sistema de cálculo de paneles y gestión de inventario.
+- **Backend:** Conexión segura con **PDO**, manejo de sesiones y lógica de carrito.
+- **Destaque Técnico:** Implementación de cálculo energético y encriptación de seguridad.
+[Ver Código del Proyecto](URL_DE_TU_REPO_SOLARIO)
+
+### 🌊 Sea Essence: UI/UX Design
+Diseño de interfaz de alta fidelidad para una tienda de perfumes de lujo.
+- **Enfoque:** Experiencia de usuario (UX) y estética minimalista.
+[Ver Mockup en Figma](URL_DE_TU_FIGMA)
+
+### 🏥 Sistema de Farmacia
+Aplicación web para control de inventario con **borrado lógico**.
+- **Mi colaboración:** Diseño visual 100% (CSS) y lógica de persistencia de datos en PHP.
+[Ver Código del Proyecto](URL_DE_TU_REPO_FARMACIA)
+
+---
+
+### 📊 Estadísticas de GitHub
+![Estadísticas de Fátima](https://github-readme-stats.vercel.app/api?username=fatimareyesesp&show_icons=true&theme=radical)
