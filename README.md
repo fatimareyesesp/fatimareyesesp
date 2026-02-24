@@ -42,11 +42,11 @@ Landing page informativa sobre destinos turísticos con adaptabilidad total.
 
 ### 🏥 Sistema de Farmacia
 Aplicación web para control de inventario con gestión de datos sensible. 
-[Ver Código del Proyecto](https://github.com/fatimareyesesp/sistema-farmacia-upqroo)
+[Ver Código del Proyecto]([https://github.com/fatimareyesesp/sistema-farmacia-upqroo](https://github.com/fatimareyesesp/sistema-farmaceutico))
 - **Mi colaboración:** Autoría del 100% del diseño visual y estilos (CSS) para una interfaz administrativa limpia.
 - **Lógica de Backend:** Implementación de **borrado lógico** en PHP para asegurar la integridad referencial y persistencia de datos en el historial.
 
 ---
 
 ### 📊 Estadísticas de GitHub
-![Estadísticas de Fátima](https://github-readme-stats.vercel.app/api?username=fatimareyesesp&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=fatimareyesesp&layout=compact&theme=radical&hide_border=true)
