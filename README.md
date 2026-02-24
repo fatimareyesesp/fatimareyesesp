@@ -20,7 +20,7 @@ Transformo ideas en soluciones digitales funcionales, desde el prototipado visua
 Plataforma completa con sistema de cálculo de paneles y gestión de inventario.
 - **Backend:** Conexión segura con **PDO**, manejo de sesiones y lógica de carrito.
 - **Destaque Técnico:** Implementación de cálculo energético y encriptación de seguridad.
-[Ver Código del Proyecto](URL_DE_TU_REPO_SOLARIO)
+[Ver Código del Proyecto](https://github.com/fatimareyesesp/Solario)
 
 ### 🌊 Sea Essence: UI/UX Design
 Diseño de interfaz de alta fidelidad para una tienda de perfumes de lujo.
